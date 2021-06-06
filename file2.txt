@@ -1,2 +1,3 @@
 Good bye!
 String...
+Line from user2
