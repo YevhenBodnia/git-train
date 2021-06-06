@@ -1,4 +1,4 @@
-Hello, world!
+Hi, baby from merge-branch!
 
 
 123
